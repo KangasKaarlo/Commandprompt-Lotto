@@ -1,7 +1,7 @@
 # Commandprompt-Lotto
 A simple commandline based lotto app that tries to win the game within a human lifetime.
 ## Motivation
-Program was made as a coursework while studying at Tampere university of applied sciences.
+The program was made as a coursework while studying at Tampere university of applied sciences.
 
 The goal was to learn how to use packets in java, how to use github and how to make a complete program from start to finish and release it.
 
