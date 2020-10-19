@@ -25,4 +25,5 @@ These can be changed as you see fit.
 ## Language
 The program was written in java
 
-
+#### note to self
+This was written with 2.5 months of coding experience, so if you happen to read the code years from now, take that into account.
