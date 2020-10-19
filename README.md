@@ -10,3 +10,12 @@ The program was written in java
 
 # Settings
 There are a few variables at the start of the main.java file that act as settings for the program
+```java
+class main {
+    //Settings
+    static int howManyNumbers = 7; #how many numbers there are in total
+    static int minNumber = 1; #what's the smallest number in the game
+    static int maxNumber = 40; #whats the largest number in the game
+    static int averageHumanLifetime = 85; #what is the length of time you need to win the jackpot in, for the program to end
+```
+These can be changed as you see fit.
