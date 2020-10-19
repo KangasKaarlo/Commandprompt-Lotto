@@ -8,8 +8,8 @@ The goal was to learn how to use packets in java, how to use github and how to m
 ## Usage
 The program first asks player for their lotto numbers one by one. After that it calculates how long it took to win the game
 
-if the jackpot was not achieved within the set lifetime (by default it's the average lifetime for a Finnish woman, 85.) the game resets and start running again with the same numbers player gave earlier. The program stops when the jackpot is achieved within the lifetime. Beware that this can take some time, my worst run took 3hours and countless lifetimes, maybe gambling is not a good idea afte all...
-r
+if the jackpot was not achieved within the set lifetime (by default it's the average lifetime for a Finnish woman, 85.) the game resets and start running again with the same numbers player gave earlier. The program stops when the jackpot is achieved within the lifetime. Beware that this can take some time, my worst run took 3hours and countless lifetimes, maybe gambling is not a good idea after all...
+
 ## Settings
 There are a few variables at the start of the main.java file that act as settings for the program
 ```java
